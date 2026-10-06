@@ -5,11 +5,6 @@ This project is the creation of a "ship controller game mechanism" like "GTA" st
 
 There are 5 ship model available:
 
--Ocean
-
-https://github.com/user-attachments/assets/c0cc76a4-77e2-46fe-a0be-5372783d3807
-
-
 -SpeedBoat
 
 https://github.com/user-attachments/assets/adf88203-4783-43dd-8c7e-80c2c69bd067
@@ -34,6 +29,10 @@ https://github.com/user-attachments/assets/b7ced976-5117-4b59-8088-e0e1765f5d7b
 
 https://github.com/user-attachments/assets/1fd2c6c6-2c9e-44b4-9377-1491999f1cd8
 
+
+-Ocean
+
+https://github.com/user-attachments/assets/c0cc76a4-77e2-46fe-a0be-5372783d3807
 
 
 ## How to play?
