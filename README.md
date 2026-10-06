@@ -7,12 +7,12 @@ There are 5 ship model available:
 
 -SpeedBoat
 
-https://github.com/user-attachments/assets/adf88203-4783-43dd-8c7e-80c2c69bd067
+https://github.com/user-attachments/assets/cf42d9ed-0535-426a-bdbb-aa7ac50c3292
 
 
 -PowerBoat
 
-https://github.com/user-attachments/assets/cf42d9ed-0535-426a-bdbb-aa7ac50c3292
+https://github.com/user-attachments/assets/adf88203-4783-43dd-8c7e-80c2c69bd067
 
 
 -SuperYatch
