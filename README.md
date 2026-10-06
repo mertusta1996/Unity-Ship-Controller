@@ -44,11 +44,11 @@ https://github.com/user-attachments/assets/c0cc76a4-77e2-46fe-a0be-5372783d3807
 ## What were the subjects focused on?
 
 - Creating a game mechanism clearly playable.
-- Implementing my own game mechanism like GTA style ship controller.
 - Finding and using free 3D models, free sound effects for any usage. (Sources : sketchfab.com, cgtrader.com, freesound.org, youtube.com)
 - Thinking and understanding how a game module could work, then I designed and coded this game module with my own ways.
 
 ## Used Free Sources
+
 -Oceanbuoy 3D Model (Free Standard License) : https://sketchfab.com/3d-models/ocean-buoy-16266a7ea59e42b5be9f1bccc251cf55
 
 -Speedboat 3D Model (Free Standard License) : https://sketchfab.com/3d-models/hacker-craft-runabout-88fd71fc831f4332a97e27e3b0e6b857 
