@@ -5,32 +5,32 @@ This project is the creation of a "ship controller game mechanism" like "GTA" st
 
 There are 5 ship model available:
 
--SpeedBoat
+-SpeedBoat (https://github.com/mertusta1996/Unity-Ship-Controller/blob/main/Videos/speedboat.mp4)
 
 https://github.com/user-attachments/assets/cf42d9ed-0535-426a-bdbb-aa7ac50c3292
 
 
--PowerBoat
+-PowerBoat (https://github.com/mertusta1996/Unity-Ship-Controller/blob/main/Videos/powerboat.mp4)
 
 https://github.com/user-attachments/assets/adf88203-4783-43dd-8c7e-80c2c69bd067
 
 
--SuperYatch
+-SuperYatch (https://github.com/mertusta1996/Unity-Ship-Controller/blob/main/Videos/superyatch.mp4)
 
 https://github.com/user-attachments/assets/031756a5-6802-4e66-bc83-a88975719583
 
 
--Battleship
+-Battleship (https://github.com/mertusta1996/Unity-Ship-Controller/blob/main/Videos/battleship.mp4)
 
 https://github.com/user-attachments/assets/b7ced976-5117-4b59-8088-e0e1765f5d7b
 
 
--Trawler
+-Trawler (https://github.com/mertusta1996/Unity-Ship-Controller/blob/main/Videos/trawler.mp4)
 
 https://github.com/user-attachments/assets/1fd2c6c6-2c9e-44b4-9377-1491999f1cd8
 
 
--Ocean
+-Ocean (https://github.com/mertusta1996/Unity-Ship-Controller/blob/main/Videos/oceanbuoy.mp4)
 
 https://github.com/user-attachments/assets/c0cc76a4-77e2-46fe-a0be-5372783d3807
 
